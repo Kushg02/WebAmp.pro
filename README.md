@@ -1,2 +1,2 @@
 # WebAmp.pro
-Website
+https://www.webamp.pro/
